@@ -23709,7 +23709,7 @@ II:function II(){},
 aDJ(){var s=0,r=A.M(t.H),q,p,o,n,m,l,k
 var $async$aDJ=A.N(function(a,b){if(a===1)return A.J(b,r)
 while(true)switch(s){case 0:s=2
-return A.Q($.xS().zw(".env"),$async$aDJ)
+return A.Q($.xS().zw("dotenv.env"),$async$aDJ)
 case 2:if($.a4==null)A.aGV()
 q=$.a4
 q.toString
